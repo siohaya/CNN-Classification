@@ -1,1 +1,1 @@
-# CNNClassification
+# CNN Classification for Japanese Tweets
